@@ -27,9 +27,5 @@ public class questão7 {
 		System.out.print(", seu peso é " + peso );
 		System.out.print(", sua altura é " + altura );
 		System.out.print(" e seu imc  é : " + imc );
-		
-		
-		
-	
 	}
 }
